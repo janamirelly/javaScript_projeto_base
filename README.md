@@ -2,6 +2,8 @@
 
 Este repositório contém os aprendizados e práticas do curso **"JavaScript: Construindo Páginas Dinâmicas"**, com foco no desenvolvimento de interfaces web interativas e funcionais.
 
+Clique aqui e veja o projeto -> https://janamirelly.github.io/javaScript_projeto_base/
+
 ## 💡 O que aprendi
 
 Durante o curso, desenvolvi habilidades importantes para trabalhar com **JavaScript moderno** e deixar as páginas web muito mais dinâmicas:
